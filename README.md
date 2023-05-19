@@ -26,3 +26,7 @@
 - Workflows get cancelled automatically when a job fails.
 - You can manually cancel a workflow.
 - You can skip a workflow to execute by having `[skip ci]` etc in commit message.
+
+## Example of workflow
+
+- [Workflow Example](.github/workflows/demo1.yaml)
